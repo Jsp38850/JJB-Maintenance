@@ -490,7 +490,7 @@ h6 {
 }
 
 #about .about-container .background {
-  margin: 20px 0;
+  margin: 0px 0;
 }
 
 #about .about-container .content {
@@ -1125,7 +1125,7 @@ h6 {
 #contact .info p {
   padding: 0 0 10px 36px;
   line-height: 28px;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 #contact .form #sendmessage {
@@ -1414,3 +1414,6 @@ h6 {
     padding: 100px 0 20px 0;
   }
 }
+
+  
+  
